@@ -17,5 +17,6 @@
 
 # Ignore other unneeded files.
 *~
+*.swp
 .secret
 database.yml
