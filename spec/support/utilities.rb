@@ -1,1 +1,1 @@
-BASE_TITLE = "Ruby on Rails Tutorial Sample App"
+include ApplicationHelper
